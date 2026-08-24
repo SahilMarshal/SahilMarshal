@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="96" viewBox="0 0 520 96" role="img" aria-label="Teamcenter">
+<defs>
+ <linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#063B5C"/><stop offset="1" stop-color="#06294A"/></linearGradient>
+ <linearGradient id="a" x1="0" x2="1"><stop offset="0" stop-color="#16A66F"/><stop offset="1" stop-color="#18D0D8"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="518" height="94" rx="16" fill="url(#bg)" stroke="#16A66F" stroke-width="2"/>
+<path d="M1 17Q1 1 17 1h116l-28 94H17Q1 95 1 79z" fill="url(#a)"/>
+<path d="M134 1h20l-28 94h-20z" fill="#0A5878" opacity=".75"/>
+<g transform="translate(18,15)">
+      <path d="M12 20 L43 7 L66 25 L39 42 Z" fill="#0B6E55"/>
+      <path d="M12 20 L39 42 L39 69 L12 51 Z" fill="#16A66F"/>
+      <path d="M39 42 L66 25 L66 53 L39 69 Z" fill="#6C7377"/>
+      <path d="M27 14 L39 8 L50 17 L39 25 Z" fill="#FFFFFF" opacity=".9"/>
+    </g>
+<text x="155" y="42" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">Teamcenter</text>
+<rect x="155" y="55" width="340" height="25" rx="12.5" fill="#16A66F" opacity=".88"/>
+<text x="325" y="72.5" text-anchor="middle" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing=".35">SIEMENS PLM</text>
+</svg>
