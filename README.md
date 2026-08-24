@@ -4,7 +4,6 @@
 
 I'm a **PLM Teamcenter Software Engineer** passionate about developing and customizing enterprise PLM solutions.
 
----
 # 💫 About Me:
  Currently working on Teamcenter ITK server-side customization using C++<br> Looking to collaborate on Teamcenter, C++, and PLM-related projects<br> Looking for help with advanced Teamcenter ITK concepts CPP and best practices<br> Currently learning advanced C++ concepts<br> Interested in improving my understanding of C++, Teamcenter ITK, and server-side development
 
