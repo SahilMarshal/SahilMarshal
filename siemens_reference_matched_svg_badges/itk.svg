@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="128" viewBox="0 0 520 128">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A7182"/><stop offset="1" stop-color="#075669"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="4" stdDeviation="4" flood-opacity=".28"/></filter></defs>
+<g filter="url(#s)">
+<rect x="3" y="3" width="514" height="122" rx="20" fill="url(#g)" stroke="#16C4D0" stroke-width="3"/>
+<path d="M3 23Q3 3 23 3H165L126 125H23Q3 125 3 105Z" fill="#fff"/>
+<path d="M165 3h25l-39 122h-25z" fill="#16C4D0"/>
+<g transform="translate(35 19)" fill="none" stroke="#0B7284" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><path d="M48 8a39 39 0 0 1 29 27M77 35l-10-3m10 3-3-10M75 56a39 39 0 0 1-28 20M47 76l5-9m-5 9 10 0M32 75A39 39 0 0 1 8 49M8 49l10 4M8 49l3 10"/><path d="M29 31L16 42l13 11M60 31l13 11-13 11M53 25L41 59"/></g>
+<text x="205" y="63" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700">ITK</text>
+<text x="205" y="94" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700">Integration Toolkit</text>
+</g></svg>

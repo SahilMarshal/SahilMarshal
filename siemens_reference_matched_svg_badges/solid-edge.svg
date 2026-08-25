@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="128" viewBox="0 0 520 128">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B62B7"/><stop offset="1" stop-color="#064A9A"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="4" stdDeviation="4" flood-opacity=".28"/></filter></defs>
+<g filter="url(#s)">
+<rect x="3" y="3" width="514" height="122" rx="20" fill="url(#g)" stroke="#168BE0" stroke-width="3"/>
+<path d="M3 23Q3 3 23 3H165L126 125H23Q3 125 3 105Z" fill="#fff"/>
+<path d="M165 3h25l-39 122h-25z" fill="#168BE0"/>
+<g transform="translate(34 19)"><path d="M4 35L48 12l38 23-43 24z" fill="#0A66C2"/><path d="M4 35l43 24v42L4 77z" fill="#0755A4"/><path d="M47 59l39-24v40l-39 26z" fill="#B0B5B8"/><path d="M22 24l26-12 21 13-22 12z" fill="#fff"/></g>
+<text x="205" y="63" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700">Solid Edge</text>
+<text x="205" y="94" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700">SIEMENS</text>
+</g></svg>
