@@ -22,6 +22,13 @@ I'm a **PLM Teamcenter Software Engineer** passionate about developing and custo
   <img src="siemens_exact_reference_svg_badges/nx.svg" width="125" height="43">
   <img src="siemens_exact_reference_svg_badges/solid-edge.svg" width="125" height="43">
 </p>
+<p align="left">
+  <img src="siemens_exact_reference_svg_badges/plm.svg" width="470" height="79"><br>
+
+  <img src="siemens_exact_reference_svg_badges/teamcenter.svg" width="125" height="43"><img src="siemens_exact_reference_svg_badges/active-workspace.svg" width="125" height="43"><img src="siemens_exact_reference_svg_badges/bmide.svg" width="125" height="43"><br>
+
+  <img src="siemens_exact_reference_svg_badges/itk.svg" width="125" height="43"><img src="siemens_exact_reference_svg_badges/nx.svg" width="125" height="43"><img src="siemens_exact_reference_svg_badges/solid-edge.svg" width="125" height="43">
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=SahilMarshal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
