@@ -17,7 +17,7 @@ I'm a **PLM Teamcenter Software Engineer** passionate about developing and custo
   <img src="https://raw.githubusercontent.com/SahilMarshal/SahilMarshal/main/siemens_plm_github_svg_badges/active-workspace.svg" height="48">
   <img src="https://raw.githubusercontent.com/SahilMarshal/SahilMarshal/main/siemens_plm_github_svg_badges/bmide.svg" height="48">
   <img src="https://raw.githubusercontent.com/SahilMarshal/SahilMarshal/main/siemens_plm_github_svg_badges/itk.svg" height="48">
-  <img src="https://raw.githubusercontent.com/SahilMarshal/SahilMarshal/main/siemens_plm_github_svg_badges/nx.svg" height="48">
+  <img src="siemens_exact_reference_svg_badges/nx.svg" height="48">
   <img src="https://raw.githubusercontent.com/SahilMarshal/SahilMarshal/main/siemens_plm_github_svg_badges/solid-edge.svg" height="48">
 </p>
 
