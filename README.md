@@ -13,13 +13,11 @@ I'm a **PLM Teamcenter Software Engineer** passionate about developing and custo
 <h2>🛠️ PLM & CAD Technologies</h2>
 <p align="left">
   <img src="siemens_exact_reference_svg_badges/plm.svg" width="470" height="79">
-  <br><br>
-
+  <br>
   <img src="siemens_exact_reference_svg_badges/teamcenter.svg" width="125" height="43">
   <img src="siemens_exact_reference_svg_badges/active-workspace.svg" width="125" height="43">
   <img src="siemens_exact_reference_svg_badges/bmide.svg" width="125" height="43">
   <br>
-
   <img src="siemens_exact_reference_svg_badges/itk.svg" width="125" height="43">
   <img src="siemens_exact_reference_svg_badges/nx.svg" width="125" height="43">
   <img src="siemens_exact_reference_svg_badges/solid-edge.svg" width="125" height="43">
